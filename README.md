@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @subinjose11
-- 👀 I’m interested in backend development 
-- 🌱 I’m currently learning advance python and libraries 
+- 👋 Hi, I’m Subin Jose
+- 👀 I’m interested in mobile app development 
+- 🌱 I’m currently learning and working on advance flutter and basic native android
 - 💞️ I’m looking to collaborate with experts 
 
 <!---
